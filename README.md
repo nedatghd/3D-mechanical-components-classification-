@@ -1,2 +1,3 @@
-# 3D-mechanical-components-classification-
+# 3D-mechanical-components-classification
 Using MeshCNN to classify 3D mechanical components
+- This repository contains an implementation of MeshCNN in PyTorch for the classification of 3D objects, specifically focusing on washers, pins, nuts, and bolts. The code is based on the original MeshCNN repository, with modifications to adapt it for the classification of these four classes of mechanical components. MeshCNN is a deep learning architecture designed to operate directly on 3D mesh data, leveraging the unique properties of mesh structures to enhance classification accuracy. The code provided allows users to train and evaluate a model on a dataset of 3D .obj files, enabling efficient and effective classification of washers, pins, nuts, and bolts. 
